@@ -1,0 +1,13 @@
+{
+  "name": "hexo-auto-excerpt",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashisherc/hexo-auto-excerpt"
+  },
+  "homepage": "https://github.com/ashisherc/hexo-auto-excerpt#readme",
+  "description": "",
+  "main": "index.js",
+  "author": "Ashish Prajapati",
+  "license": "MIT"
+}
