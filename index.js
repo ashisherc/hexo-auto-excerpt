@@ -6,7 +6,7 @@ const htmlToText = require('html-to-text');
             {
                 ignoreImage: true,
                 ignoreHref: true,
-                wordwrap: true,
+                wordwrap: false,
                 uppercaseHeadings: false
             }
         );
