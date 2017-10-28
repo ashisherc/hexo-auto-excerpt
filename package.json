@@ -6,8 +6,11 @@
     "url": "git+https://github.com/ashisherc/hexo-auto-excerpt"
   },
   "homepage": "https://github.com/ashisherc/hexo-auto-excerpt#readme",
-  "description": "",
+  "description": "Hexo plugin to add auto excerpt on posts with configured number of characters",
   "main": "index.js",
   "author": "Ashish Prajapati",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "html-to-text": "^3.3.0"
+  }
 }
